@@ -1,2 +1,2 @@
 # U-project
-A Udacityy Data analytics nanodegree project I worked on.
+Udacityy Data analytics nanodegree projects I worked on.
